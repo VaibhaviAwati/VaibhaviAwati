@@ -1,16 +1,16 @@
-## Hi there 👋
+# Vaibhavi Awati
 
-<!--
-**VaibhaviAwati/VaibhaviAwati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Experienced Java Full Stack Developer | AWS Enthusiast | Microservices | CI/CD | Spring Boot**
 
-Here are some ideas to get you started:
+🌍 Pune, Maharashtra  
+📧 [Email](mailto:awativaibhavi@gmail.com)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+- 🌟 Currently working as a **Software Developer.**
+- 🔧 Learning and experimenting with **Java, AWS, and modern tech stacks.**
+- 🤝 Open to collaborating on interesting projects.
+- 💬 Ask me about **Spring Boot, Microservices, and AWS.**
+
+
