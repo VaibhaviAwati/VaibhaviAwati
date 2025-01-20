@@ -1,6 +1,6 @@
 # Vaibhavi Awati
 
-**Experienced Java Full Stack Developer | AWS Enthusiast | Microservices | CI/CD | Spring Boot**
+**Experienced Java AWS Developer | AWS Enthusiast | Microservices | REST API | Spring Boot**
 
 🌍 Pune, Maharashtra  
 📧 [Email](mailto:awativaibhavi@gmail.com)  
